@@ -211,7 +211,7 @@ Future versions of MunchMatch may include:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/munchmatch.git
+git clone https://github.com/ethanhuang1189/MunchMatch.git
 cd munchmatch
 ```
 
