@@ -1,0 +1,73 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Build & output
+dist/
+build/
+web-build/
+*.tsbuildinfo
+
+# Expo / React Native
+.expo/
+expo-env.d.ts
+.metro-health-check*
+ios/
+android/
+
+# Native build artifacts
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+.env*.local
+!.env.example
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Testing & coverage
+coverage/
+.nyc_output/
+.pytest_cache/
+htmlcov/
+
+# Secrets & certificates
+*.pem
+*.cert
+*.crt
+
+# Misc
+.cache/
+tmp/
